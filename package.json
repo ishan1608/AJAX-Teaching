@@ -1,0 +1,31 @@
+{
+  "name": "xhr",
+  "version": "1.0.0",
+  "description": "Simple Node.js server to learn Ajax requests using jQuery",
+  "main": "app.js",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "node-static": "^0.7.7",
+    "wurl": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishanatmuz/AJAX-Teaching.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "jquery",
+    "ajax"
+  ],
+  "author": "Ishan <ishanatmuzaffarpur@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishanatmuz/AJAX-Teaching/issues"
+  },
+  "homepage": "https://github.com/ishanatmuz/AJAX-Teaching#readme"
+}
